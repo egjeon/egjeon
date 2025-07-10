@@ -5,7 +5,7 @@
 ---
 
 ### 🔥 주요 기술 스택
-- Java, JavaScript, Spring Boot, MSSQL, MySQL, PostgreSQL 등
+- Java, JavaScript, Spring legacy, Spring Boot, MSSQL, MySQL, PostgreSQL, MyBatis, JPA 등
 
 ---
 
