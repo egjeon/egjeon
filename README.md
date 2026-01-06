@@ -21,10 +21,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egjeon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egjeon&layout=compact&theme=tokyonight)
 
----
+<img
+  src="https://github-readme-stats.vercel.app/api?username=egjeon&show_icons=true&theme=tokyonight&cache_seconds=1800"
+  alt="GitHub Stats"
+  height="165"
+/>
 
-## 🏆 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=egjeon&color=blue)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=egjeon&layout=compact&theme=tokyonight&cache_seconds=1800"
+  alt="Top Languages"
+  height="165"
+/>
