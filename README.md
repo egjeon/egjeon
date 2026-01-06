@@ -4,23 +4,27 @@
 
 ---
 
-### 🔥 주요 기술 스택
-- Java, JavaScript, Spring legacy, Spring Boot, MSSQL, MySQL, PostgreSQL, MyBatis, JPA 등
+## 🔥 Tech Stack
+**Backend**
+- Java, Spring Legacy, Spring Boot
+- MyBatis, JPA
+
+**Database**
+- MSSQL, MySQL, PostgreSQL
+
+**Frontend**
+- JavaScript, JSP, Thymeleaf
+
+**Etc**
+- Git, Linux, REST API
 
 ---
 
-### 📊 GitHub 통계
-
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egjeon&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egjeon&layout=compact&theme=tokyonight)
 
 ---
 
-### 🏆 방문자 수
-
-![방문자수](https://komarev.com/ghpvc/?username=egjeon&color=blue)
-
----
-
-<!-- 필요하다면 아래에 프로젝트, 연락처, 블로그 등 추가 가능 -->
+## 🏆 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=egjeon&color=blue)
